@@ -7,7 +7,7 @@ User must install or have a Python version greater than 3.6, i.e - 3.7 and above
 # Getting Started
 The user must install certain modules for this program to be functioning properly
 
-pip3 install flask
+pip3 install flask <br>
 pip3 install uk_covid19
 pip3 install requests
 pip3 install sched
