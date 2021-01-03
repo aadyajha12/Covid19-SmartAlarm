@@ -8,14 +8,14 @@ User must install or have a Python version greater than 3.6, i.e - 3.7 and above
 The user must install certain modules for this program to be functioning properly
 
 pip3 install flask <br>
-pip3 install uk_covid19
-pip3 install requests
-pip3 install sched
-pip3 install threading
-pip3 install logging
-pip3 install pyttsx3
-pip3 install pylint
-pip3 install pytest
+pip3 install uk_covid19 <br>
+pip3 install requests <br>
+pip3 install sched <br>
+pip3 install threading <br>
+pip3 install logging <br>
+pip3 install pyttsx3 <br>
+pip3 install pylint <br>
+pip3 install pytest <br>
 
 Since the API keys are unique to everyone,these keys should not be shared with anyone, thus the user must obtain his/her own News and Weather API keys from accessing https://newsapi.org and https://openweathermap.org/api respectively.
 
@@ -30,7 +30,7 @@ Run python main.py in the main directory. The default link which the user can ty
 According to the user's preference, they can schedule and remove alarms, notifications and choose whether to see weather or news updates.
 
 # Author
-Name :Aadya Jha
-License : MIT
-Github: https://github.com/aadyajha12
+Name :Aadya Jha <br>
+License : MIT <br>
+Github: https://github.com/aadyajha12 <br>
 Email: aj534@exeter.ac.uk
