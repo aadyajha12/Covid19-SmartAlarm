@@ -10,6 +10,7 @@ The user must install certain modules for this program to be functioning properl
 pip3 install flask <br>
 pip3 install uk_covid19 <br>
 pip3 install requests <br>
+pip3 install datetime <br>
 pip3 install sched <br>
 pip3 install threading <br>
 pip3 install logging <br>
