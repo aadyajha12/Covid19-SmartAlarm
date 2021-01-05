@@ -1,0 +1,9 @@
+{
+    "port": 5000,
+    "title": "Smart Alarm",
+    "weather_api_key": "86792c9e90fe4fd8afd5e17dd725dd30",
+    "news_api_key": "ad7cfd8b2de243bb9e97cc9ff483ec8d",
+    "city_name": "Exeter",
+    "country": "uk",
+    "logging": "logs.txt"
+  }

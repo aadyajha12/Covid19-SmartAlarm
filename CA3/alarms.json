@@ -1,0 +1,9 @@
+[
+    {
+        "alarm": "2021-01-04T15:47",
+        "title": "Hello",
+        "news": true,
+        "weather": true,
+        "content": "The alarm is set to go off at 2021-01-04 15:47. The news will be announced. The weather will be announced."
+    }
+]
